@@ -1,6 +1,11 @@
-# Sistema de Recomendação de Criadores - Desafio Conty
+# Backend API Recomendação - Desafio Conty
 
-Sistema de recomendação de criadores para campanhas desenvolvido com FastAPI e SQLite. Implementa algoritmo de scoring determinístico para recomendar os melhores criadores de conteúdo para campanhas específicas.
+[![Python](https://img.shields.io/badge/Python-3.12+-blue.svg)](https://www.python.org/downloads/)
+[![FastAPI](https://img.shields.io/badge/FastAPI-0.104+-green.svg)](https://fastapi.tiangolo.com/)
+[![SQLite](https://img.shields.io/badge/SQLite-3+-orange.svg)](https://www.sqlite.org/)
+[![Tests](https://img.shields.io/badge/Tests-6%20passed-brightgreen.svg)](./test_api.py)
+
+Sistema de recomendação de criadores para campanhas desenvolvido para o **Desafio Conty**. Implementa algoritmo de scoring determinístico para recomendar os melhores criadores de conteúdo para campanhas específicas.
 
 ## 🚀 Quick Start
 
